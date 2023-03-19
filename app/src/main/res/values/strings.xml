@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="btn">Submit</string>
+    <string name="textBwh">This is an edit text</string>
+</resources>
